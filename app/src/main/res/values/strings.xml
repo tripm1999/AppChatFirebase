@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppChatFirebase</string>
+    <string name="welcome">Welcome to orange chat</string>
+    <string name="username">User name</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="Register">Register</string>
+    <string name="fogotpass">Forgot your password?</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Lastname</string>
+</resources>
